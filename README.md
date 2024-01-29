@@ -31,6 +31,14 @@ The mail has to be sent from an academic email address associated with the Harva
 ## Reference
 If you use the dataset or re-use this work, please cite:
 ```
-TBA
-
+@article{saganowski2022emognition,
+  title={Emognition dataset: emotion recognition with self-reports, facial expressions, and physiology using wearables},
+  author={Saganowski, Stanis{\l}aw and Komoszy{\'n}ska, Joanna and Behnke, Maciej and Perz, Bartosz and Kunc, Dominika and Klich, Bart{\l}omiej and Kaczmarek, {\L}ukasz D and Kazienko, Przemys{\l}aw},
+  journal={Scientific data},
+  volume={9},
+  number={1},
+  pages={158},
+  year={2022},
+  publisher={Nature Publishing Group UK London}
+}
 ```
